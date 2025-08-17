@@ -1,0 +1,6 @@
+title: "Carlos Blog"
+description: "My personal blog on GitHub Pages"
+theme: minima
+paginate: 5
+plugins:
+  - jekyll-paginate
