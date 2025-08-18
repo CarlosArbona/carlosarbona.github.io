@@ -5,7 +5,7 @@ date: 2024-04-02
 tags: [intro]
 ---
 
-my perspective
+my perspective:
 i have a lot of friends in the tech space obviously. a lot are the digital nomad type. a ton that travel by themselves are miserable. i believe there is a time & place for going solo & also with people, but generally speaking you should probably bring someone along in the long run.
 
 we also live in the middle of a pandemic (right?). one thing i’ve seen a few times now is that we are now acting like my nomad friends act. kinda miserable.
