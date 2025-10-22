@@ -5,7 +5,7 @@ date: 2025-10-22
 tags: [sales, ai, founders, discogenie]
 ---
 
-the most human skill left: on selling in the age of ai
+on selling in the age of ai
 
 for years, silicon valley looked down on salespeople.  
 we were the talkers. the ones who “didn’t build anything.”
