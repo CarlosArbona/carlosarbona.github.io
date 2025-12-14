@@ -1,0 +1,19 @@
+# Add one entry per project. Fields: name, description, status, link, repo, tech (array)
+- name: Personal website redesign
+  description: Rebuilding the site with modern accessibility and responsive design.
+  status: In progress
+  link: https://carlosarbona.github.io
+  repo: https://github.com/CarlosArbona/carlosarbona.github.io
+  tech:
+    - HTML
+    - CSS
+    - Jekyll
+
+- name: Notes app
+  description: Lightweight note-taking app with sync across devices.
+  status: prototype
+  link: https://example.com/notes
+  repo: https://github.com/CarlosArbona/notes-app
+  tech:
+    - React
+    - Firebase
