@@ -17,3 +17,10 @@
   tech:
     - React
     - Firebase
+
+- name: findmyscript.com
+  description: Search and browse movie and TV show scripts; find dialogue snippets and scenes.
+  status: Active
+  link: https://findmyscript.com
+  repo: ""
+  tech: []
