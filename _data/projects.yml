@@ -1,7 +1,3 @@
 # Add one entry per project. Fields: name, description, status, link, repo, tech (array)
-- name: findmyscript.com
-  description: Helps NYC residents find pharmacies with hard-to-find medications in stock.
-  status: Active
-  link: https://findmyscript.com
-  repo: ""
-  tech: []
+
+[]
